@@ -2,7 +2,10 @@
 ### 2D Infinite Dungeon Crawler
 <div align="center">
   <img src="Media/GatesTitleScreen.png" alt="GATES gameplay preview" width="650" />
+  <br/>
+  <sub><I>[Title Screen]</i></sub>
 </div>
+<br/>
 
 [![Play on GameJolt](https://img.shields.io/badge/Play_Now-GameJolt-2F7F6F?style=for-the-badge&logo=gamejolt&logoColor=white)](https://gamejolt.com/games/GATES/1079130)
 ![Unity](https://img.shields.io/badge/Unity-2D-000000?style=for-the-badge&logo=unity&logoColor=white)
@@ -46,6 +49,11 @@
 Here is a general gameplay video: (compressed to 720p 30fps to be under 10MB)
 
 [Media/GATES Silent Gameplay-compressed.mp4](https://github.com/user-attachments/assets/317476eb-1851-46ad-aa27-31ff97bdc292)
+<div align="center">
+  <sub><I>[Short Gameplay Footage]</i></sub>
+  <br/>
+</div>
+<br/>
 
 ## How to Play!
 ### Gamejolt Download:
