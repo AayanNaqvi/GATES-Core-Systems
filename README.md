@@ -45,3 +45,21 @@ Here is a general gameplay video: (compressed to 720p 30fps to be under 10MB)
 * All important scripts are listed in (`Scripts`)
 * (`Scripts`) contains many subfolders, each with names relating to the functions the scripts in the subfolder serve
 
+## Key Reflections
+There are a few key points/reflections regarding the development of this game and the repo:
+* **Difficulty Progression:**
+  * Balancing difficulty in a game where the order the player visits each room is variable means a lot of testing was required
+  * Many rooms were cut, reworked, rebalanced in response to lots, lots, lots of play testing!
+  * The end result is a game that (hopefully!) is balanced and fun to play through.
+* **Controller Support:**
+  * Designing UI/Controls that work well on both Controller and Keyboard/Mouse was very challenging
+  * Creating specific button binds for many UI actions helped alleviate some of this challenge
+  * The end result is a game that (hopefully!) works well with whatever input the player prefers
+* **Items and Combat:**
+  * Separating items to their own inherited classes allowed adding and removing items to be way more scalable and easier
+* **Certain elements being omitted from this repo**
+  * All art, music, sound effects, prefabs, and particle effects are all not present in this repo
+  * Only the scripts were included to keep the repo lightweight, and to protect assets
+
+## Conclusion
+This project was very fun to work on and reinforced how much I love making and building games! Balancing and debugging at times was very tedious, but enjoyable nonetheless. Thank you for checking out this project! Feel free to download and play the game yourself on GameJolt, and leave feedback too!
