@@ -19,7 +19,7 @@
 ## Technical Specs
 * **Engine & Language:** Unity (2D), C#
 * **Other Tools Used** LMMS (Music), Piskel (Art), Audacity/BFXR/Soundly (Sound Effects)
-* **Core Systems & Keywords:**
+* **Core Systems:**
   * Pseudo-Randomized Room progression
   * Autonomous enemy pathfinding (Made possible with [A* Pathfinding Project](https://arongranberg.com/astar/))
   * Inventory/Item system
@@ -34,4 +34,14 @@
 Here is a general gameplay video: (compressed to 720p 30fps to be under 10MB)
 
 [Media/GATES Silent Gameplay-compressed.mp4](https://github.com/user-attachments/assets/317476eb-1851-46ad-aa27-31ff97bdc292)
+
+## How to Play!
+### Gamejolt Download:
+* Follow the [Link](https://gamejolt.com/games/GATES/1079130) to visit the GATES Gamejolt Page!
+  * Download the current build listed as a .zip file (Only a Windows build exists as of now)
+  * Unzip the file to a location on your computer
+  * Run the .exe file in the folder
+### Inspecting the Code:
+* All important scripts are listed in (`Scripts`)
+* (`Scripts`) contains many subfolders, each with names relating to the functions the scripts in the subfolder serve
 
