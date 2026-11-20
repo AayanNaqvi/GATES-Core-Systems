@@ -9,6 +9,15 @@
 ![C#](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-4c1?style=for-the-badge)
 
+## Table of Contents
+* [Overview](#overview)
+* [Technical Specs](#technical--specs)
+* [General Gameplay Showcase](#general--gameplay)
+* [How to Play](#how--to--play!)
+* [Key Reflections](#key--reflections)
+* [Conclusion](#conclusion)
+
+
 ## Overview
 **Who knows how you got here?** All you can do now is fight, fight, fight! **GATES** is a 2D top-down dungeon crawler built in **Unity (C#)** where you push through an endless sequence of rooms packed with enemies and spawners. As you survive deeper into the run, rooms scale up in size and danger. Successfully defeating all enemies in a room rewards you with a safe-rooms containing item chests or an **Upgrade Totem** where you spend nuggets on gear upgrades. Be careful however, as dying means you restart from the start!
 
