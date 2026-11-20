@@ -15,5 +15,5 @@ This repo only contains the main **C#** scripts used for the game and does not i
 ## General Gameplay
 **GATES** is a top down game where you battle through infinite and random set of rooms full of enemies and spawners. As the player continues, there is a sense of difficulty progression as the rooms get bigger and more dangerous/lethal. After the player defeats all enemies and spawners in a room, they are rewarded with a safe room which either has a chest full of useful items or an **Upgrade Totem** to spend nuggets on useful upgrades to their gear. Here is a general gameplay video (compressed to 720p 30fps to be under 10MB)
 
-Media/GATES Silent Gameplay-compressed.mp4
+[Media/GATES Silent Gameplay-compressed.mp4](https://github.com/user-attachments/assets/317476eb-1851-46ad-aa27-31ff97bdc292)
 
