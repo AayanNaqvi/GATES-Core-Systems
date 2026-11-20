@@ -9,3 +9,5 @@
 
 ## Overview
 **Who knows how you got here?** All you can do now is fight, fight, fight! Gates is a 2D top-down dungeon crawler made in **Unity (C#)** featuring autonomous enemy path-finding, custom sprite animations, and an original soundtrack.
+
+This repo only contains the main **C#** scripts used for the game and does not include any art assets, music, or sound effects (to keep the repo lightweight!) 
