@@ -19,7 +19,13 @@
 ## Technical Specs
 * **Engine & Language:** Unity (2D), C#
 * **Other Tools Used** LMMS (Music), Piskel (Art), Audacity/BFXR/Soundly (Sound Effects)
-* **Core Systems & Keywords:** Pseudo-Randomized Room progression, Autonomous enemy pathfinding, Inventory/Item system, Combat system (melee and ranged), custom sprite/animations, Controller support
+* **Core Systems & Keywords:**
+  * Pseudo-Randomized Room progression
+  * Autonomous enemy pathfinding (Made possible with [A* Pathfinding Project](https://arongranberg.com/astar/))
+  * Inventory/Item system
+  * Combat system (melee and ranged)
+  * Custom sprite/animations
+  * Controller support
 * **Repository Scope:** C# source scripts (`Scripts/`) and documentation (`README.md`).Full compiled build available on GameJolt.
 
 ## General Gameplay
