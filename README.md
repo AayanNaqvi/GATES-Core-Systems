@@ -11,10 +11,10 @@
 
 ## Table of Contents
 * [Overview](#overview)
-* [Technical Specs](#technical--specs)
-* [General Gameplay Showcase](#general--gameplay)
-* [How to Play](#how--to--play!)
-* [Key Reflections](#key--reflections)
+* [Technical Specs](#technical-specs)
+* [General Gameplay Showcase](#general-gameplay)
+* [How to Play](#how-to-play)
+* [Key Reflections](#key-reflections)
 * [Conclusion](#conclusion)
 
 
