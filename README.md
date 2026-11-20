@@ -27,7 +27,10 @@
 
 ## Technical Specs
 * **Engine & Language:** Unity (2D), C#
-* **Other Tools Used** LMMS (Music), Piskel (Art), Audacity/BFXR/Soundly (Sound Effects)
+* **Other Tools Used:**
+  * LMMS (Music)
+  * Piskel (Art)
+  * Audacity/BFXR/Soundly (Sound Effects)
 * **Core Systems:**
   * Pseudo-Randomized Room progression
   * Autonomous enemy pathfinding (Made possible with [A* Pathfinding Project](https://arongranberg.com/astar/))
