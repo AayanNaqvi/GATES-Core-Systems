@@ -47,7 +47,7 @@
 
 Here is a general gameplay video: (compressed to 720p 30fps to be under 10MB)
 
-[Media/GATES Silent Gameplay-compressed.mp4](https://github.com/user-attachments/assets/317476eb-1851-46ad-aa27-31ff97bdc292)
+[Media/GATES Silent Gameplay-compressed.mp4](https://github.com/user-attachments/assets/4ed7ea4e-6ae2-42f2-936b-b6cbed2a1962)
 <div align="center">
   <sub><I>[Short Gameplay Footage]</i></sub>
   <br/>
